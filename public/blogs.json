@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/0ynvfF7/top-view-desk-concept-with-coffee.jpg",
+      "title": "The Art of Code",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co.com/5cgsnzp/stylish-woman-reading-book.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": 5, 
+      "hashtags": ["#coding", "#development", "#programming"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/0ynvfF7/top-view-desk-concept-with-coffee.jpg",
+      "title": "Design Thinking",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co.com/5cgsnzp/stylish-woman-reading-book.jpg",
+      "posted_date": "2024-09-25",
+      "reading_time": 8, 
+      "hashtags": ["#design", "#innovation", "#creativity"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/0ynvfF7/top-view-desk-concept-with-coffee.jpg",
+      "title": "AI for Beginners",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co.com/5cgsnzp/stylish-woman-reading-book.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": 10, 
+      "hashtags": ["#AI", "#machinelearning", "#technology"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/0ynvfF7/top-view-desk-concept-with-coffee.jpg",
+      "title": "Web Development Essentials",
+      "author": "Bob Lee",
+      "author_img": "https://i.ibb.co.com/5cgsnzp/stylish-woman-reading-book.jpg",
+      "posted_date": "2024-09-20",
+      "reading_time": 7,
+      "hashtags": ["#webdevelopment", "#javascript", "#HTML"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/0ynvfF7/top-view-desk-concept-with-coffee.jpg",
+      "title": "Mastering CSS",
+      "author": "Eve Jackson",
+      "author_img": "https://i.ibb.co.com/5cgsnzp/stylish-woman-reading-book.jpg",
+      "posted_date": "2024-10-05",
+      "reading_time": 6, 
+      "hashtags": ["#CSS", "#frontend", "#styling"]
+    }
+  ]
+  
