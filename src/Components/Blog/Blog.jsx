@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import { BsBookmark } from "react-icons/bs";
 
 const Blog = ({blog,handleBookMark,handleMarkAsRead}) => {
-    const {title,cover,author_img,author,reading_time,posted_date,hashtags}=blog;
+    const {id,title,cover,author_img,author,reading_time,posted_date,hashtags}=blog;
     return (
         <div className='mt-10 space-y-4 p-4'>
             <img className='w-full rounded' src={cover} alt={`cover pic of the title ${title}`} />
@@ -27,7 +27,7 @@ const Blog = ({blog,handleBookMark,handleMarkAsRead}) => {
             </p>
 
             <button
-            onClick={()=>handleMarkAsRead(reading_time)}
+            onClick={()=>handleMarkAsRead(id,reading_time)}
             className='text-purple-800 font-bold underline'>mark as read</button>
         </div>
     );
